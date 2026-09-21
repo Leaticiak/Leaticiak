@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Leaticia 👋
 
-<!--
-**Leaticiak/Leaticiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 **Cybersecurity | Networking | Ethical Hacking**
 
-Here are some ideas to get you started:
+I'm a **Telecommunication Engineering graduate** with a background in **networking** and a completed **entry-level cybersecurity certification**.
+I'm currently advancing my practical skills in **Ethical Hacking**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Technologies
+
+* 🔐 Cybersecurity 
+* 🌐 Networking
+* 🐧 Kali Linux
+* 🦈 Wireshark
+* 🔎 OSINT & reconnaissance
+* 🐍 Python — currently learning
+* 🧪 Hands-on cybersecurity labs
+
+### 📚 Currently Developing
+
+* Ethical Hacking
+* Penetration Testing
+* Python
+* Practical cybersecurity skills
+
+### 🧪 Hands-on Projects & Labs
+
+* 🔎 **OSINT & Reconnaissance** — Practicing information gathering and reconnaissance using cybersecurity tools and frameworks.
+* 🦈 **Network Traffic Analysis** — Analyzing network traffic with Wireshark and studying protocols such as TCP, UDP, ICMP, and TLS.
+* 🐧 **Kali Linux Security Labs** — Building practical experience with security tools and command-line techniques in a controlled lab environment.
+* 🛡️ **Digital Forensics Labs** — Practicing basic digital-forensics techniques through hands-on cybersecurity exercises.
+
+
+### 🎯 My Goal
+
+To build strong practical cybersecurity experience through hands-on projects, security labs, and continuous learning, while progressing toward a career in cybersecurity.
+
+---
+
+
