@@ -2,8 +2,8 @@
 
 🔐 **Cybersecurity | Networking | Ethical Hacking**
 
-I'm a **Telecommunication Engineering graduate** with a background in **networking** and a completed **entry-level cybersecurity certification**.
-I'm currently advancing my practical skills in **Ethical Hacking**
+I'm a **Telecommunication Engineering professional** with a background in **networking** and a completed **Cybersecurity certifications in Cybersecurity Essentials**.
+I'm currently advancing my practical skills in **Ethical Hacking & Penetration Testing**
 
 ### 🛠️ Skills & Technologies
 
